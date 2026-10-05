@@ -8,7 +8,7 @@ The Personal Finance Tracker is a simple web-based application designed to help 
 
 This project promotes financial awareness and teaches how everyday money decisions can be monitored using basic web technologies like HTML, CSS, JavaScript, and DOM manipulation.
 
-❗ Problem Statement
+Problem Statement
 
 Many individuals do not actively track their income and expenses, which leads to poor budgeting and financial planning. Without a clear understanding of spending patterns, it becomes difficult to save money or make informed financial decisions.
 
